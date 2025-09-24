@@ -3,12 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegograel/portfolio-playwright-sample.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegograel/portfolio-playwright-sample/issues"
+  },
+  "homepage": "https://github.com/diegograel/portfolio-playwright-sample#readme",
   "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.54.1",
-    "@types/node": "^24.1.0"
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
   }
 }
